@@ -8,7 +8,7 @@
 <section id="inner-page">
   <div class="container">
     <div class="center">
-      <h2>About Us</h2>
+      <h2>About Us2</h2>
       <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non odio sed eros tristique bibendum.<br>
         Morbi libero elit elementum quis faucibus ac, condimentum quis nibh.</p>
     </div>
